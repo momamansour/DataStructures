@@ -1,6 +1,4 @@
 // Author: Mohammed Almansour
-// Student ID: z5282027
-// Platform: Mac
 
 #include <stdio.h>
 #include <stdlib.h>
