@@ -47,6 +47,7 @@ An example: consider the following two AVL trees T1 and T2:
 ![image](https://user-images.githubusercontent.com/84064508/117939455-6ac2c300-b34b-11eb-8a7e-ae6840e47b72.png)
 
 The union tree of T1 and T2 is shown as follows:
+
 ![image](https://user-images.githubusercontent.com/84064508/117939491-72826780-b34b-11eb-807f-8be6b8fdc6f7.png)
 
 Note that in general the union tree may not be unique with respect to shape (structure) depending on how it is constructed.
